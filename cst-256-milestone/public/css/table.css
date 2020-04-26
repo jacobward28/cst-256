@@ -1,0 +1,22 @@
+label{ 
+    margin-left:100px; 
+    margin-right:100px; 
+    color:white; 
+} 
+
+#users_next{
+    margin-right:85px;
+}
+
+#users_info{
+    color:white;
+    margin-left:100px;
+}
+
+.even{
+    background-color:white;
+}
+
+.ellipsis{
+    color:white;
+}
